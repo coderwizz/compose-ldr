@@ -1,4 +1,4 @@
-import Leaderboard from "@/components/ui/ldr2"; // Import the Leaderboard component
+import Leaderboard from "@/components/ui/ldr"; // Import the Leaderboard component
 
 export default function Home() {
   return (
